@@ -7,8 +7,8 @@ homepage: https://github.com/google/reflectable.dart
 environment:
   sdk: '>=3.6.0 <4.0.0'
 dependencies:
-  analyzer: ^6.8.0
-  build: ^2.4.0
+  analyzer: ^8.1.1
+  build: ^3.0.1
   build_resolvers: ^2.4.0
   build_config: ^1.1.0
   build_runner: ^2.4.0
